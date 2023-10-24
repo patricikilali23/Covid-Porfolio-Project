@@ -1,4 +1,4 @@
-# Covid-Porfolio-Project
+# Covid 19 Analysis-Porfolio-Project
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
