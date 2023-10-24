@@ -13,7 +13,7 @@ This project aims to analyze COVID-19 data to identify trends, patterns, and ins
 
 The project has a number of potential applications, including:
 
-Identifying areas where COVID-19 cases are rising rapidly
-Assessing the effectiveness of COVID-19 vaccines
-Identifying factors that contribute to COVID-19 mortality
-Understanding the economic and social impacts of COVID-19
+- Identifying areas where COVID-19 cases are rising rapidly
+- Assessing the effectiveness of COVID-19 vaccines
+- Identifying factors that contribute to COVID-19 mortality
+- Understanding the economic and social impacts of COVID-19
